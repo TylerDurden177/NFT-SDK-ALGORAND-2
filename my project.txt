@@ -1,5 +1,3 @@
-Sure, here's an altered version of the text that avoids plagiarism while retaining the same meaning:
-
 The Algorand NFT ARC SDK is a tool for creating and updating Non-Fungible Tokens (NFTs) on the Algorand blockchain using the Python programming language.
 
 To begin, we'll need to install the algosdk dependency using pip:
